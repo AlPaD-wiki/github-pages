@@ -1,0 +1,2 @@
+cd extensions/
+git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/UserMerge
